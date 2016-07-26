@@ -1,8 +1,9 @@
-package com.example.aulnw.testgit;
+package com.example.aulnw.testgit.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.example.aulnw.testgit.R;
 import com.example.aulnw.testgit.fragment.MainFragment;
 
 public class MainActivity extends AppCompatActivity {
